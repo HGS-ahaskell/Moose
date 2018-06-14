@@ -1,0 +1,16 @@
+{
+  "Name": "Moose",
+  "Version": "0.9.3",
+  "Author": "Natasha",
+  "Dependencies": [
+    {
+      "Name": "Squirrel",
+      "Version": "=5.10", 
+      "URL": "http://github.com/HGS-ahaskell/Squirrel"
+    },
+    {
+      "Name": "Loon",
+      "URL": "Loon.zip"
+    }
+  ]
+}
