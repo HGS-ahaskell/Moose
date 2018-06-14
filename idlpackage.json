@@ -1,11 +1,11 @@
 {
   "Name": "Moose",
-  "Version": "0.9.3",
+  "Version": "0.9.8.4",
   "Author": "Natasha",
   "Dependencies": [
     {
       "Name": "Squirrel",
-      "Version": "=5.10", 
+      "Version": "^5", 
       "URL": "http://github.com/HGS-ahaskell/Squirrel"
     },
     {
